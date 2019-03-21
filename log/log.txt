@@ -1,0 +1,142 @@
+开始创建实体类型节点
+
+开始读入数据
+
+motorcycle信息条目：12233
+
+Brake_assist nodes have 3
+
+节点类型创建完毕
+开始创建
+开始读入数据
+
+motorcycle信息条目：12233
+
+关系数目是12144
+正在创建关系brake_assist_is: 100 of 12144
+正在创建关系brake_assist_is: 200 of 12144
+正在创建关系brake_assist_is: 300 of 12144
+正在创建关系brake_assist_is: 400 of 12144
+正在创建关系brake_assist_is: 500 of 12144
+正在创建关系brake_assist_is: 600 of 12144
+正在创建关系brake_assist_is: 700 of 12144
+正在创建关系brake_assist_is: 800 of 12144
+正在创建关系brake_assist_is: 900 of 12144
+正在创建关系brake_assist_is: 1000 of 12144
+正在创建关系brake_assist_is: 1100 of 12144
+正在创建关系brake_assist_is: 1200 of 12144
+正在创建关系brake_assist_is: 1300 of 12144
+正在创建关系brake_assist_is: 1400 of 12144
+正在创建关系brake_assist_is: 1500 of 12144
+正在创建关系brake_assist_is: 1600 of 12144
+正在创建关系brake_assist_is: 1700 of 12144
+正在创建关系brake_assist_is: 1800 of 12144
+正在创建关系brake_assist_is: 1900 of 12144
+正在创建关系brake_assist_is: 2000 of 12144
+正在创建关系brake_assist_is: 2100 of 12144
+正在创建关系brake_assist_is: 2200 of 12144
+正在创建关系brake_assist_is: 2300 of 12144
+正在创建关系brake_assist_is: 2400 of 12144
+正在创建关系brake_assist_is: 2500 of 12144
+正在创建关系brake_assist_is: 2600 of 12144
+正在创建关系brake_assist_is: 2700 of 12144
+正在创建关系brake_assist_is: 2800 of 12144
+正在创建关系brake_assist_is: 2900 of 12144
+正在创建关系brake_assist_is: 3000 of 12144
+正在创建关系brake_assist_is: 3100 of 12144
+正在创建关系brake_assist_is: 3200 of 12144
+正在创建关系brake_assist_is: 3300 of 12144
+正在创建关系brake_assist_is: 3400 of 12144
+正在创建关系brake_assist_is: 3500 of 12144
+正在创建关系brake_assist_is: 3600 of 12144
+正在创建关系brake_assist_is: 3700 of 12144
+正在创建关系brake_assist_is: 3800 of 12144
+正在创建关系brake_assist_is: 3900 of 12144
+正在创建关系brake_assist_is: 4000 of 12144
+正在创建关系brake_assist_is: 4100 of 12144
+正在创建关系brake_assist_is: 4200 of 12144
+正在创建关系brake_assist_is: 4300 of 12144
+正在创建关系brake_assist_is: 4400 of 12144
+正在创建关系brake_assist_is: 4500 of 12144
+正在创建关系brake_assist_is: 4600 of 12144
+正在创建关系brake_assist_is: 4700 of 12144
+正在创建关系brake_assist_is: 4800 of 12144
+正在创建关系brake_assist_is: 4900 of 12144
+正在创建关系brake_assist_is: 5000 of 12144
+正在创建关系brake_assist_is: 5100 of 12144
+正在创建关系brake_assist_is: 5200 of 12144
+正在创建关系brake_assist_is: 5300 of 12144
+正在创建关系brake_assist_is: 5400 of 12144
+正在创建关系brake_assist_is: 5500 of 12144
+正在创建关系brake_assist_is: 5600 of 12144
+正在创建关系brake_assist_is: 5700 of 12144
+正在创建关系brake_assist_is: 5800 of 12144
+正在创建关系brake_assist_is: 5900 of 12144
+正在创建关系brake_assist_is: 6000 of 12144
+正在创建关系brake_assist_is: 6100 of 12144
+正在创建关系brake_assist_is: 6200 of 12144
+正在创建关系brake_assist_is: 6300 of 12144
+正在创建关系brake_assist_is: 6400 of 12144
+正在创建关系brake_assist_is: 6500 of 12144
+正在创建关系brake_assist_is: 6600 of 12144
+正在创建关系brake_assist_is: 6700 of 12144
+正在创建关系brake_assist_is: 6800 of 12144
+正在创建关系brake_assist_is: 6900 of 12144
+正在创建关系brake_assist_is: 7000 of 12144
+正在创建关系brake_assist_is: 7100 of 12144
+正在创建关系brake_assist_is: 7200 of 12144
+正在创建关系brake_assist_is: 7300 of 12144
+正在创建关系brake_assist_is: 7400 of 12144
+正在创建关系brake_assist_is: 7500 of 12144
+正在创建关系brake_assist_is: 7600 of 12144
+正在创建关系brake_assist_is: 7700 of 12144
+正在创建关系brake_assist_is: 7800 of 12144
+正在创建关系brake_assist_is: 7900 of 12144
+正在创建关系brake_assist_is: 8000 of 12144
+正在创建关系brake_assist_is: 8100 of 12144
+正在创建关系brake_assist_is: 8200 of 12144
+正在创建关系brake_assist_is: 8300 of 12144
+正在创建关系brake_assist_is: 8400 of 12144
+正在创建关系brake_assist_is: 8500 of 12144
+正在创建关系brake_assist_is: 8600 of 12144
+正在创建关系brake_assist_is: 8700 of 12144
+正在创建关系brake_assist_is: 8800 of 12144
+正在创建关系brake_assist_is: 8900 of 12144
+正在创建关系brake_assist_is: 9000 of 12144
+正在创建关系brake_assist_is: 9100 of 12144
+正在创建关系brake_assist_is: 9200 of 12144
+正在创建关系brake_assist_is: 9300 of 12144
+正在创建关系brake_assist_is: 9400 of 12144
+正在创建关系brake_assist_is: 9500 of 12144
+正在创建关系brake_assist_is: 9600 of 12144
+正在创建关系brake_assist_is: 9700 of 12144
+正在创建关系brake_assist_is: 9800 of 12144
+正在创建关系brake_assist_is: 9900 of 12144
+正在创建关系brake_assist_is: 10000 of 12144
+正在创建关系brake_assist_is: 10100 of 12144
+正在创建关系brake_assist_is: 10200 of 12144
+正在创建关系brake_assist_is: 10300 of 12144
+正在创建关系brake_assist_is: 10400 of 12144
+正在创建关系brake_assist_is: 10500 of 12144
+正在创建关系brake_assist_is: 10600 of 12144
+正在创建关系brake_assist_is: 10700 of 12144
+正在创建关系brake_assist_is: 10800 of 12144
+正在创建关系brake_assist_is: 10900 of 12144
+正在创建关系brake_assist_is: 11000 of 12144
+正在创建关系brake_assist_is: 11100 of 12144
+正在创建关系brake_assist_is: 11200 of 12144
+正在创建关系brake_assist_is: 11300 of 12144
+正在创建关系brake_assist_is: 11400 of 12144
+正在创建关系brake_assist_is: 11500 of 12144
+正在创建关系brake_assist_is: 11600 of 12144
+正在创建关系brake_assist_is: 11700 of 12144
+正在创建关系brake_assist_is: 11800 of 12144
+正在创建关系brake_assist_is: 11900 of 12144
+正在创建关系brake_assist_is: 12000 of 12144
+正在创建关系brake_assist_is: 12100 of 12144
+关系创建完毕
+开始导出数据
+开始读入数据
+
+motorcycle信息条目：12233
+
